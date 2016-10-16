@@ -106,7 +106,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 
 .column .sponsors{display:block; width:270px; margin-bottom:20px;}
 /* .column .sponsors h2{margin:0 0 15px 10px; padding:0 0 8px 0; border-bottom:2px solid #E3E3E3;} */
-.column .sponsors h2{margin:0 0 15px 10px; padding:0 0 8px 0; border-bottom:2px solid #E3E3E3;} 
+.column .sponsors h2{position: margin:0 0 15px 10px; padding:0 0 8px 0; border-bottom:2px solid #E3E3E3;} 
 .column .sponsors .b_250{display:block; width:250px; margin:0 0 10px 10px; padding:4px; border:1px solid #C7C5C8}
 .column .sponsors .b_125 ul{margin:0; padding:0; list-style:none;}
 .column .sponsors .b_125 ul{margin:0; padding:0; list-style:none;}
