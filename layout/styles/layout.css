@@ -56,7 +56,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 
 /* ----------------------------------------------TopBar------------------------------------- */
 
-#topline{padding:10px 0; text-transform: uppercase}
+#topline{padding:10px 0; text-transform: uppercase;}
 #topline ul{float:left; margin:6px 0 0 0; padding:0; list-style:none;}
 #topline li{display:inline; margin:0 8px 0 0; padding:0 10px 0 0; border-right:1px solid #999999;}
 #topline li.last{margin-right:0; padding-right:0; border:none;}
@@ -64,7 +64,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 
 /* ----------------------------------------------Header------------------------------------- */
 
-#header{padding:10px 0 20px; z-index:1000;}
+#header{padding:10px 0 20px; z-index:1000}
 #header h1, #header p, #header ul{margin:0; padding:0; list-style:none; line-height:normal;}
 #header #logo{display:block; float:left; margin-top:7px; overflow:hidden;}
 #header #logo h1 a{font-size:46px; color:#999999; background-color:#000000;}
